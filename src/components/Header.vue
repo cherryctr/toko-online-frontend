@@ -43,7 +43,7 @@
 <script>
     import { computed, onMounted } from 'vue'
     import { useStore } from 'vuex'
-
+    
     export default {
 
         name: 'HeaderComponent',
